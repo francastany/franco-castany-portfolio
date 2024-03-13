@@ -1,5 +1,5 @@
 {
-  "name": "minimalist-portfolio-json",
+  "name": "portfolio-franco-castany",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@astrojs/check": "0.4.1",
+    "@fontsource-variable/inconsolata": "^5.0.17",
+    "@fontsource/poppins": "^5.0.12",
     "astro": "4.3.2",
     "hotkeypad": "0.1.0",
     "typescript": "5.3.3"

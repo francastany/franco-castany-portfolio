@@ -1,190 +1,219 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Franco Castany",
+    "label": "Desarrollador Full Stack & Estudiante de Diseño Multimedia",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "email": "francocastany@gmail.com",
+    "phone": "+54 9 1158631812",
+    "url": "",
+    "summary": "Tengo 20 años. Descubrí mi pasión por el diseño mientras me adentraba en el Desarrollo Web, y desde entonces, he buscado fusionar la funcionalidad técnica con la creatividad visual. Aspiro a crear experiencias digitales cautivadoras que brinden soluciones eficientes. Busco seguir aprendiendo y creciendo en un entorno dinámico y desafiante.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "",
+      "city": "Ciudad Autónoma de Buenos Aires",
+      "countryCode": "ARG",
+      "region": "Argentina"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "Franco Castany",
+        "url": "https://www.linkedin.com/in/franco-castany-3476b1220/"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "francastany",
+        "url": "https://x.com/francastany"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "francastany",
+        "url": "https://github.com/francastany"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
+      "name": "Escuela de Árbitros AAA",
+      "position": "Asistente Administrativo",
+      "url": "https://www.arbitrosaaa.com.ar",
       "startDate": "2021-01-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": [
-        "Started the company"
-      ]
+      "summary": "Facturación y liquidación de sueldos. Atención por correo electrónico. Gestión de bases de datos y archivos. Apoyo en el diseño básico para redes sociales y presentaciones.",
+      "highlights": ["Started the company"]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
+      "name": "Courts of the World (Upwork)",
+      "position": "Escritor Freelance",
+      "url": "https://www.courtsoftheworld.com/",
+      "startDate": "2022-06-01",
+      "endDate": "2023-09-01",
       "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
-      ]
+      "highlights": ["Started the company"]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "education": [
+    {
+      "institution": "Escuela Da Vinci",
+      "url": "https://davinci.edu.ar",
+      "area": "Diseño Multimedia",
+      "studyType": "Título Universitario",
+      "startDate": "2023-03-01",
+      "endDate": "2026-12-12",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "CoderHouse",
+      "url": "https://coderhouse.com",
+      "area": "Desarrollo Web Full Stack",
+      "studyType": "Curso",
+      "startDate": "2022-06-01",
+      "endDate": "2023-06-15",
+      "score": "10s",
+      "courses": ["Desarrollo Web", "JavaScript", "ReactJS", "Backend"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Desarrollador Web Full Stack",
+      "date": "2023-12-01",
+      "issuer": "CoderHouse",
+      "url": "https://www.coderhouse.com/ar/certificados/647a4b61e613a3001aa1bd3f?lang=es"
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    }
+  ],
   "skills": [
     {
+      "name": "VSCode",
+      "level": "Advanced",
+      "keywords": ["Code editor"]
+    },
+    {
       "name": "HTML",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
+      "level": "Advanced",
+      "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "CSS",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
+      "level": "Advanced",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Advanced",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
+      "level": "Advanced",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "Tailwind",
-      "level": "Avanzado",
+      "level": "Intermediate",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
       ]
     },
     {
       "name": "TypeScript",
-      "level": "Avanzado",
+      "level": "Basic",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
+      "level": "Intermediate",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
     },
     {
       "name": "MySQL",
-      "level": "Avanzado",
+      "level": "Basic",
       "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
       ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermediate",
+      "keywords": ["Almacenamiento de Datos", "Bases de Datos", "Backend"]
     },
     {
       "name": "Git",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
+      "level": "Intermediate",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
     },
     {
       "name": "GitHub",
-      "level": "Avanzado",
+      "level": "Intermediate",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
       ]
     },
     {
       "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "level": "Intermediate",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Express",
+      "level": "Intermediate",
+      "keywords": ["Backend", "Servidor"]
+    },
+    {
+      "name": "Vercel",
+      "level": "Intermediate",
+      "keywords": ["Deployment"]
+    },
+    {
+      "name": "Photoshop",
+      "level": "Intermediate",
+      "keywords": ["Design", "Edit"]
+    },
+    {
+      "name": "Illustrator",
+      "level": "Intermediate",
+      "keywords": ["Design", "Branding"]
+    },
+    {
+      "name": "PremierePro",
+      "level": "Basic",
+      "keywords": ["Video Edit"]
+    },
+    {
+      "name": "AfterEffects",
+      "level": "Basic",
+      "keywords": ["Motion Graphics"]
     }
   ],
   "languages": [
@@ -194,82 +223,77 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Intermediate"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "",
+      "keywords": [""]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
   "projects": [
     {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "name": "Fútbol Actualizado Blog",
+      "isActive": false,
+      "description": "Sitio web de noticias de Fútbol Actualizado. Creado con Astro, TailwindCSS y Keystatic para el contenido.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "En desarrollo",
+        "Astro Content Collections",
+        "Formato Markdoc",
+        "Categorización de posteos"
       ],
-      "url": "https://mars.codes"
+      "url": "https://futbol-actualizado-blog.vercel.app/",
+      "github": "https://github.com/francastany/futbol_actualizado_blog"
     },
     {
-      "name": "AdventJS",
+      "name": "Bet Fever App",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Landing Page para una aplicación de apuestas con HTML & CSS",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Only HTML, CSS y BootStrap",
+        "Carrusel & Galería de imágenes"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://bet-fever-app.vercel.app/",
+      "github": "https://github.com/francastany/BetFever-App"
     },
     {
-      "name": "Codember",
+      "name": "Capture Fotografía",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
+      "description": "Landing Page para una estudio de fotografía con HTML & CSS",
+      "highlights": ["HTML & CSS", "Formulario de contacto"],
+      "url": "https://capture-da-vinci.vercel.app/",
+      "github": "https://github.com/francastany/capture_daVinci"
     },
     {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "name": "Eccomerce The Sticker Hub",
+      "isActive": false,
+      "description": "Proyecto final para el curso de Backend en CoderHouse. Hecho con el Mongo, Express, NodeJS y Handlebars + BootStrap.",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "Autenticación con JsonWebToken",
+        "Motores de Plantillas",
+        "Sistema de Mailing"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": null,
+      "github": "https://github.com/francastany/entregaFinal"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Generador de Contraseñas Simple",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "description": "Mi primer proyecto con JavaScript = D, simple y conciso. Hecho en StackBlitz.",
       "highlights": [
         "100% gratuito",
-        "+500 soluciones de la comunidad"
+        "Editor de código stackBlitz",
+        "Primer proyecto =D"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://js-fziuuq.stackblitz.io/",
+      "github": "https://github.com/francastany/passwordGenerator---pure-JS"
     }
   ]
 }
