@@ -1,14 +1,12 @@
-
-
 <div align="center">
 <h2>
-    <strong>Franco Castany</strong>. Portfolio minimalista maquetado para web y pdf
+    Minimalist <strong>Franco Castany</strong>'s portfolio for Web and PDF.
 </h2>
 <p>
-    Esquema del JSON de CV de <a href="https://jsonresume.org/schema/">jsonresume.org</a>
+    JSON CV Schema from <a href="https://jsonresume.org/schema/">jsonresume.org</a>
 </p>
 <p>
-    Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
+    Based on <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>'s design.
 </p>
 
 </div>
@@ -17,15 +15,10 @@
 
 ## 🛠️ Stack
 
-- [**Astro**](https://astro.build/) - El framework web de la nueva época.
-- [**Typescript**](https://www.typescriptlang.org/) - JavaScript con sintaxis de tipado.
-- [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys) - Menu desplegable con atajos de teclado hecho en puro Javascript.
-
-
+- [**Astro**](https://astro.build/) - The web framework of the new era.
+- [**Typescript**](https://www.typescriptlang.org/) - JavaScript with typing syntax.
+- [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys) - Drop-down menu with keyboard shortcuts made in pure Javascript.
 
 ## 🔑 Licencia
 
-Basado en el diseño de [**Bartosz Jarocki**]([https://midu.dev](https://github.com/BartoszJarocki/cv)), actualizado por [**midudev**](https://midu.dev).
-
-
-
+Based on [**Bartosz Jarocki**](<[https://midu.dev](https://github.com/BartoszJarocki/cv)>)'s design, upgraded by [**midudev**](https://midu.dev).

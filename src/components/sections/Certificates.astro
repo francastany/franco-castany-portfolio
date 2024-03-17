@@ -4,7 +4,7 @@ import Section from "../Section.astro"
 import { certificates } from "@cv"
 ---
 
-<Section title="Certificados">
+<Section title="Certificates">
   <ul>
     {
       certificates.map(({ name, date, issuer, url }) => {
@@ -24,7 +24,7 @@ import { certificates } from "@cv"
               </header>
               <footer>
                 <a href={url} target="_blank" rel="noopener noreferrer">
-                  Ver certificado
+                  See certificate
                 </a>
               </footer>
             </article>
